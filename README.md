@@ -15,5 +15,3 @@ Because of this, they aremissing chances to earnmore, losing customers, andmakin
 ## Solution
 They need proper reports and simpleinsights to understand their sales,customers, and product performancebetter.
 
-
-![Sql Project 1](https://github.com/user-attachments/assets/8c40c79e-946a-4af5-8233-0f321f758c45)
